@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Managing Big Data with MySQL
+# [Managing Big Data with MySQL](https://www.coursera.org/learn/analytics-mysql)
 
   Duke University
 
@@ -226,8 +225,6 @@ https://www.quora.com/Is-there-a-site-for-online-SQL-practice
 Microsoft Word_Additional SQL Resources.docx
 
 PDF_Additional SQL Resources.pdf
->>>>>>> 377c633c02934696b28260df99e595408f41f1ab
-
 
 # Jupyter Basics
 
