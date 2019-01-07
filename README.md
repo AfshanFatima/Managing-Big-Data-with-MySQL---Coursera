@@ -84,8 +84,6 @@ This is a book for intermediate to advanced users, because it assumes a lot of w
 
 * Database Systems: Introduction to Databases and Data Warehouses by Nenad Jukić, Susan Vrbsky, and Svetlozar Nestorov. https://www.amazon.com/Database-Systems-Introduction-Databases-Warehouses/dp/0132575671/ref=sr_1_1?s=books&ie=UTF8&qid=1470319426&sr=1-1&keywords=Database+Systems%3A+Introduction+to+Databases+and+Data+Warehouses
 
-This is the textbook I referenced in the first weeks of the course. It is more expensive than the other books I’ve listed, but I still find it to be one of the most accessible descriptions I’ve read of how to design databases. I know that Dr. Jukić and his co-authors are working on ways to reduce the cost of the book, so keep an eye out for price drops, and consider buying a used version!
-
 **Practice More SQL**
 
 When I was learning SQL, I found it difficult to find one set of resources that would allow me to learn SQL efficiently and holistically. Further, I lost a lot of time troubleshooting my own desktop version of MySQL. I designed this course the way I did to prevent other people from having to go through the same frustration I did cobbling together a comprehensive learning experience. At present, I do not know of any other freely-available resource that allows students to practice SQL the way you have been able to in this course. Of course, new resources are popping up every day, so please let me know if there are any helpful websites I should make other students aware of!
@@ -106,12 +104,6 @@ https://chinookdatabase.codeplex.com
 
 https://www.quora.com/Is-there-a-site-for-online-SQL-practice
 
-**You can download this information as both a Word Document and a PDF. You must have Adobe Acrobat Reader to download any PDF file.
-
-Microsoft Word_Additional SQL Resources.docx
-
-PDF_Additional SQL Resources.pdf
-
 # Jupyter Basics
 
 Jupyter instructions are also available in these two videos: How to Use Jupyter Notebooks and How to Use Your Jupyter Account. Check them out if you have not.
@@ -123,10 +115,6 @@ Jupyter is an online interface that allows you to practice MySQL queries online,
 To access a Jupyter notebook, click on one of the MySQL exercise items in this course, such as "Jupyter Exercise 1: Looking at Your Data," then click the "Open Tool" button to be taken to that notebook. The notebook is housed on a server outside of Coursera, at Duke University. 
 
 A Jupyter notebook includes instructional information (written-out information about MySQL and how to write MySQL queries) and query boxes (in which you can type and run MySQL queries to practice what is taught in the written materials). For these instructions, we will use Exercise 1 as an example. 
-
-Here is a screen shot of one portion of Exercise 1 notebook, with the text block instructional information and query boxes highlighted. 
-
-
 
 To use the notebook, carefully read the text information and follow the instructions to create and run queries, to learn the various MySQL functions being taught in the course. There are 12 notebooks with progressively harder content - by the time you have completed all of them you will be proficient in MySQL!
 
@@ -150,6 +138,5 @@ You can duplicate, rename or delete any notebook by selecting the checkbox to th
 
 Notice the notebook titled "restore-my-notebook.ipnyb." This notebook contains instructions for how to re-install clean copies of all 12 of the course notebooks into your Jupyter home directory. This is something useful to do if you accidentally delete one or more of your notebooks, or alter them significantly and wish to recover clean, new versions of each notebook. However, restoring will OVERWRITE all of the existing notebooks with new versions of each (any work you had saved in the notebook would be lost, if you did not save the notebook with a different name BEFORE restoring).
 
-IMPORTANT INFORMATION ABOUT YOUR JUPYTER ACCOUNT
 
 
